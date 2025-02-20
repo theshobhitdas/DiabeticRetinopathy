@@ -66,9 +66,6 @@ The Streamlit app is integrated with Cloudflared for easy access and deployment.
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests or report issues.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 - Kaggle Diabetic Retinopathy Dataset
 - TensorFlow & Keras for deep learning framework

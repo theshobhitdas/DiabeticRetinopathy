@@ -74,5 +74,5 @@ This project is licensed under the MIT License.
 - TensorFlow & Keras for deep learning framework
 - Streamlit for the web interface
 
-## Screenshots
-![Alt Text](Images/Streamlit Website.png)
+## Interface Screenshot
+![Streamlit Website](Images/Streamlit Website.png)

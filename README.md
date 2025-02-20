@@ -73,3 +73,6 @@ This project is licensed under the MIT License.
 - Kaggle Diabetic Retinopathy Dataset
 - TensorFlow & Keras for deep learning framework
 - Streamlit for the web interface
+
+## Screenshots
+![Alt Text](Images/Streamlit Website.png)
